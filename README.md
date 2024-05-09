@@ -12,7 +12,7 @@
 
 ## Feito por:
 
-### Joana Santos
+### Victor Chr
 
 ### Linkedin: https://www.linkedin.com/school/aluracursos/
 
