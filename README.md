@@ -13,7 +13,3 @@
 ## Feito por:
 
 ### Victor Chr
-
-### Linkedin: https://www.linkedin.com/school/aluracursos/
-
-```
